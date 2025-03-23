@@ -88,5 +88,7 @@ venv\Scripts\activate     # Windows
 ```
 
 3. **Run the Jupyter notebook**
+ ```bash
 jupyter notebook Bank_credit_card_EDA.ipynb
+```
 
