@@ -78,12 +78,14 @@ All visualizations were generated using:
 ```bash
 git clone https://github.com/your-username/credit-card-eda.git
 cd credit-card-eda
+```
 
-2. **Create a virtual environment (optional but recommended)**
+2. **Create a virtual environment (optional but recommended)** 
 ```bash
 python -m venv venv
 source venv/bin/activate  # macOS/Linux
 venv\Scripts\activate     # Windows
+```
 
 3. **Run the Jupyter notebook**
 jupyter notebook Bank_credit_card_EDA.ipynb
